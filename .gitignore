@@ -1,0 +1,4 @@
+#ignore test.md file
+test.md
+#ugnore node_modules/
+node_modules/
